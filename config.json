@@ -8,7 +8,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "presets": {"url": "http://www.umbrellaec.com.ar", "username": ""}, 
+    "siteurl": "http://www.umbrellaec.com.ar/campus", 
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile"
 }
